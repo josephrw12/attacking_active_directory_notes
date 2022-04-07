@@ -1,3 +1,3 @@
-# attacking_active_directory_notes
-## Cheat sheet 
+# Attacking Active Directory notes
+## Cheat sheet. 
 ### Work in Progress.
