@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "8eb2bbd1a477bad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc5dbf366a8e69f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.Domain_enumeration/6. List Domain Controllers.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b61c30ba5132a020",
+    "type": "split",
+    "children": [
+      {
+        "id": "b39984f003906c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6159d7b5f8a0d7a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebb9f4527d37a667",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9095ac9a8dfd8532",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f49993922b9de81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46ae6e987832f66f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.Domain_enumeration/6. List Domain Controllers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2fc5dbf366a8e69f",
+  "lastOpenFiles": [
+    "2.Domain_enumeration/6. List Domain Controllers.md",
+    "2.Domain_enumeration/5. Password Policy.md",
+    "2.Domain_enumeration/4. Domain Info.md",
+    "2.Domain_enumeration/3. Load Modules.md",
+    "2.Domain_enumeration/2. Modules.md",
+    "2.Domain_enumeration/1. Intro.md",
+    "1.Download_execute/PowerShell - Download and Execute cradles.md"
+  ]
+}
