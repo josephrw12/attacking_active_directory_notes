@@ -1,3 +1,3 @@
 # Attacking Active Directory notes 💥💥
-## Cheat sheet. 
+## Cheat sheet (Obsidian Vault). 
 ### Work in Progress.
